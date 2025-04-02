@@ -1,0 +1,3 @@
+C:/Users/julia/CLionProjects/L1Z2/cmake-build-debug/CMakeFiles/L1Z2.dir
+C:/Users/julia/CLionProjects/L1Z2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/CLionProjects/L1Z2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
